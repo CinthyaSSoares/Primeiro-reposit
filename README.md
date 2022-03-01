@@ -1,2 +1,2 @@
-# Anota-es
+# Anotações
 Anotações de estudos
